@@ -1,10 +1,7 @@
 # Hello there! 👋
 
-I am deeply passionate about using the power of data to solve complex problems. With skills in Python, JavaScript, PHP, SQL, HTML, CSS, and C, I am well-equipped to tackle any challenges that come my way. Additionally, I hold a keen interest in finance and investment portfolios, which has been a driving force behind my work.
 
-As the founder of NEXT, a startup venture, I am constantly looking for new ways to make a positive impact. Let's connect and work together to drive innovation and create a better future.
-
-I would also like to clarify that I am currently a first-year student, and the information you see in this repository represents the fields that I am either working in or learning about, not my level of proficiency in them.
+I would also like to clarify that I am currently a first-year studenPursuing degree in AI & ML, and the information you see in this repository represents the fields that I am either working in or learning about, not my level of proficiency in them.
 
 🌐 Socials:
 <br>
