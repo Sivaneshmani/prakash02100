@@ -8,7 +8,7 @@ I would also like to clarify that I am currently a first-year studenPursuing deg
 <div align="center">
   <a href="https://discord.gg/prakash_.#4389"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://instagram.com/___.prakash_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/prakash-r-97577725b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/prakash-r-97577725b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://stackoverflow.com/users/21402993"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
   <a href="https://twitter.com/prakash__r_"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://codepen.io/prakash02100"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>
