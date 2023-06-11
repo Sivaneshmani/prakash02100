@@ -66,8 +66,8 @@ I would also like to clarify that I am currently a first-year studenPursuing deg
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prakash02100&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.projectpro.io%2Farticle%2Fprobability-and-statistics-for-machine-learning%2F494&psig=AOvVaw0pB81gvBA-dBLKOrq-rYJ4&ust=1686564113312000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjb9IP7uv8CFQAAAAAdAAAAABAE" width="512px"/>
+### 😂
+![Probability and Statistics for Machine Learning](https://dezyre.gumlet.io/images/blog/probability-and-statistics-for-machine-learning/blobid0.png?w=330&dpr=2.6)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prakash02100&icon=8&color=0)](https://visitcount.itsvg.in)
