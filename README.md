@@ -27,6 +27,8 @@ I would also like to clarify that I am currently a first-year studenPursuing deg
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
 # 🚀 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&theme=radical&show_icons=true&count_private=true&hide_border=true)
