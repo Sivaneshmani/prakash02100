@@ -29,11 +29,6 @@ I would also like to clarify that I am currently a first-year studenPursuing deg
 
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-# 🚀 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&theme=radical&show_icons=true&count_private=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&theme=radical&hide_border=true&layout=compact&langs_count=8)
-
 # 📊 GitHub Contributions:
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=prakash02100&theme=radical&hide_border=true)
