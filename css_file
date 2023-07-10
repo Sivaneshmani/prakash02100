@@ -1,0 +1,74 @@
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+		ul{
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+			background-color: black;
+		}
+		li{
+			float: left;
+		}
+		li a{
+			display: block;
+			color: white;
+			text-align: center;
+			padding: 18px 20px;
+			text-decoration: none;
+
+		}
+		li a:hover{
+			background-color: skyblue;
+		}
+		.active {
+  background-color:blue ;
+}
+ input[type=text] {
+  float: right;
+  padding: 7px;
+  margin-top: 10px;
+  margin-right: 20px;
+  border: none;
+  font-size: 18px;
+  width: 600px;
+}
+.col-container {
+  display: table;
+  width: 100%;
+}
+.col {
+  display: table-cell;
+  padding: 16px;
+}
+	</style>
+</head>
+<body>
+	<ul>
+		<li>
+			<a href="#home">HOME</a>
+		</li>
+		<li><a href="#shop">SHOP</a></li>
+		<li><a href="#contact">CONTACT</a>
+		</li>
+		<li><a href="#cart">CART</a></li>
+		<li style="float:right"><a class="active" href="#login">LOGIN</a></li>
+	
+      <input type="text" placeholder="Search.." name="search">
+      <div class="col-container">
+  <div class="col" style="background:lightskyblue;">
+    <h2>Column 1</h2>
+
+  </div>
+
+  <div class="col" style="background:lightskyblue;">
+    <h2>Column 2</h2>
+  </div>
+
+  <div class="col" style="background:lightskyblue;">
+    <h2>Column 3</h2>
+  </div>
+</div>
+ </body>
